@@ -26,6 +26,7 @@ class TodoItem extends Component {
             </li>
         )
     }
+    // Test pour git
 }
 
 export default TodoItem;
